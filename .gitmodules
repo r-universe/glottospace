@@ -5,3 +5,7 @@
 [submodule "glottospace"]
 	path = glottospace
 	url = https://github.com/glottospace/glottospace
+[submodule "tmap"]
+	path = tmap
+	url = https://github.com/r-tmap/tmap
+	registered = false
